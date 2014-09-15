@@ -1,0 +1,1 @@
+<?php die("You do not belong here.") ?>

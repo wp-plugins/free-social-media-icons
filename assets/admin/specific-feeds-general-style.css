@@ -1,0 +1,18 @@
+#menu-posts-sf_social_icons {
+	background-color: #111;
+}
+#adminmenu li.menu-top#menu-posts-sf_social_icons:hover,
+#adminmenu li.menu-top#menu-posts-sf_social_icons:hover a {
+	background-color: #333 !important;
+}
+#menu-posts-sf_social_icons > a {
+	color: #fff !important;
+	font-size: 12px !important;
+	text-align: center;
+}
+#menu-posts-sf_social_icons a:hover {
+	color: #2ea2cc !important;
+}
+#menu-posts-sf_social_icons.wp-menu-open a {
+	color: #fff !important;
+}
